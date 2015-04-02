@@ -14,7 +14,8 @@ Assorted material related to current and former proejcts
 
 ## Imaging
 - X-Ray Imaging Group at ETH Zurich - http://bit.ly/1gD8wKb
-- Quantitative Big Imaging Course at ETH Zurich - http://bit.ly/1kj9mnq
+- Quantitative Big Imaging Course at ETH Zurich - http://kmader.github.io/Quantitative-Big-Imaging-2015/
+- Presentation at Spark East 2015 - http://4quant.com/spark-east-2015
 - Presentation at Spark Summit 2014 - https://rawgit.com/4Quant/spark-summit-2014-presentation/master/ssPresentation.html
 - [High-throughput, Scalable, Quantitative, Cellular Phenotyping using X-Ray Tomographic Microscopy](http://4quant.github.io/IWBBIO2014) at International Work-Conference on Bioinformatics and Biomedical Engineering 2014 in Grenada, Spain
 - [Spark for High-throughput, Scalable, Quantitative Analysis of Genome-Scale Datasets](http://4quant.github.io/machine-learning-meetup) at the Zurich Machine Learning Meetup in Zurich, Switzerland
